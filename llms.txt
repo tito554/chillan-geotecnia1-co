@@ -1,0 +1,46 @@
+# Geotecnia1 — Chillán
+
+> Geotechnical engineering services in Chillán, Chile.
+
+## Services
+- [Aislacion Sismica](https://chillan.geotecnia1.co/aislacion-sismica/)
+- [Calicatas Exploratorias](https://chillan.geotecnia1.co/calicatas-exploratorias/)
+- [Cbr Vial](https://chillan.geotecnia1.co/cbr-vial/)
+- [Cimentaciones](https://chillan.geotecnia1.co/cimentaciones/)
+- [Cimentaciones Superficiales](https://chillan.geotecnia1.co/cimentaciones-superficiales/)
+- [Columnas Grava](https://chillan.geotecnia1.co/columnas-grava/)
+- [Densidad Cono Arena](https://chillan.geotecnia1.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://chillan.geotecnia1.co/ensayo-cpt/)
+- [Ensayo Triaxial](https://chillan.geotecnia1.co/ensayo-triaxial/)
+- [Estabilidad Taludes](https://chillan.geotecnia1.co/estabilidad-taludes/)
+- [Excavaciones Profundas](https://chillan.geotecnia1.co/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://chillan.geotecnia1.co/excavaciones-subterraneo/)
+- [Exploracion](https://chillan.geotecnia1.co/exploracion/)
+- [Geofisica](https://chillan.geotecnia1.co/geofisica/)
+- [Geotecnia Vial](https://chillan.geotecnia1.co/geotecnia-vial/)
+- [Granulometria](https://chillan.geotecnia1.co/granulometria/)
+- [Grouting](https://chillan.geotecnia1.co/grouting/)
+- [Laboratorio In Situ](https://chillan.geotecnia1.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chillan.geotecnia1.co/laboratorio-lab/)
+- [Licuefaccion](https://chillan.geotecnia1.co/licuefaccion/)
+- [Limites Atterberg](https://chillan.geotecnia1.co/limites-atterberg/)
+- [Losa De Cimentacion](https://chillan.geotecnia1.co/losa-de-cimentacion/)
+- [Masw Vs30](https://chillan.geotecnia1.co/masw-vs30/)
+- [Mejoramiento](https://chillan.geotecnia1.co/mejoramiento/)
+- [Microzonificacion Sismica](https://chillan.geotecnia1.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://chillan.geotecnia1.co/monitoreo-excavaciones/)
+- [Pavimento Flexible](https://chillan.geotecnia1.co/pavimento-flexible/)
+- [Permeabilidad Campo](https://chillan.geotecnia1.co/permeabilidad-campo/)
+- [Placa De Carga](https://chillan.geotecnia1.co/placa-de-carga/)
+- [Sismica](https://chillan.geotecnia1.co/sismica/)
+- [Sondaje Spt](https://chillan.geotecnia1.co/sondaje-spt/)
+- [Taludes](https://chillan.geotecnia1.co/taludes/)
+- [Tuneles Suelo Blando](https://chillan.geotecnia1.co/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://chillan.geotecnia1.co/vibrocompactacion/)
+
+## Contact
+- Website: https://chillan.geotecnia1.co/
+
+## About
+This site provides geotechnical engineering services in Chillán, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
